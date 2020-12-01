@@ -43,7 +43,7 @@ var minArray = function(numbers) {
 };
 ```
 
-## 双指针
+## 二分查找
 
 - 利用数组是排序过的特性
 
